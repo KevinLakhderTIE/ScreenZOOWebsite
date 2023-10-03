@@ -1,0 +1,141 @@
+header {
+    font-family: 'Permanent Marker', cursive;
+    width: 100vw;
+}
+
+.scroll-section{
+    max-height: 100px;
+    overflow-y: auto;
+}
+
+main {
+margin-top: 138px;
+}
+
+#introductionpage {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+    background-color: gold;
+}
+
+.lowerbar {
+    padding: 50px;
+    background-color: gold;
+}
+
+.mainpage {
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    width: 100vw;
+    padding-top:20px;
+}
+h4 {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+
+}
+
+footer {
+    background-color: gold;
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+navbar {
+    width: 100vw;
+}
+
+
+.emptyspace {
+    padding-top: 10px;
+
+}
+
+.mainpage div div {
+    margin-top: -130px;
+    padding-top: 130px;
+}
+
+.Dailyfacts {
+    background-color: black;
+}
+
+#Daily-Fact-White-Lion {
+    padding-left: 10px;
+}
+
+h3 {
+    padding-left: 10px;
+
+}
+
+.row   {
+    width: 100vw;
+
+}
+
+.logoimage {
+
+    padding-left: 20px;
+
+    width: 200px;
+}
+
+.lowerbartext {
+    color: black;
+}
+
+.Zoobiography {
+
+    color: white;
+
+}
+
+.ZOOprofile {
+    background-color: gold;
+}
+
+.Zooprofile {
+    margin-top: -130px;
+    padding-top: 140px;
+
+
+}
+
+
+.profiletext {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+
+.lowertext {
+    margin-left: 20px;
+}
+
+
+#Entry {
+    color: gold;
+    font-weight: bold;
+}
+#locations {
+    color: gold;
+    font-weight: bold;
+}
+
+
+#locations h4
+{
+    color: darkgrey;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+}
+#Entry h4 {
+    color: darkgrey;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+}
