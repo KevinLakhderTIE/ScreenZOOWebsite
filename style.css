@@ -129,30 +129,13 @@ h3 {
 }
 
 
-#locations h4
+.textlink h4
 {
     color: darkgrey;
     font-weight: bold;
     font-family: 'Permanent Marker', cursive;
 }
-#Entry h4 {
-    color: darkgrey;
-    font-weight: bold;
-    font-family: 'Permanent Marker', cursive;
-}
 
-#Toys-Games-Puzzles  h4 {
-    color: darkgrey;
-    font-weight: bold;
-    font-family: 'Permanent Marker', cursive;
-}
-#Merchandise  h4 {
-    color: darkgrey;
-    font-weight: bold;
-    font-family: 'Permanent Marker', cursive;
-}
-#EducationAndMedia  h4 {
-    color: darkgrey;
-    font-weight: bold;
-    font-family: 'Permanent Marker', cursive;
+h2 {
+    margin-left: 20px;
 }
