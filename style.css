@@ -6,16 +6,26 @@ header {
 /**{*/
 /*    border:Solid red 1px;*/
 /*}*/
+*{
+    margin:0;
+    padding: 0;
+}
 
 
+body {
+    overflow-x: hidden;
+}
 
 .scroll-section{
     max-height: 100px;
     overflow-y: auto;
 }
 
+
+
 main {
 margin-top: 138px;
+
 }
 
 #introductionpage {
@@ -152,3 +162,6 @@ h2 {
     color: black;
 }
 
+img {
+    max-width: 100vw;
+}
