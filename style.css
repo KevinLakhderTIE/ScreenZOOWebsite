@@ -153,5 +153,5 @@ h2 {
 }
 
 ::marker {
-    color: gold;
+    display: none;
 }
