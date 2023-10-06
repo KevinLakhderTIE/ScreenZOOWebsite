@@ -60,6 +60,31 @@
       <!--Upperbar    -->
       <h1>
         Screen ZOO Daily
+        <script>
+          <!--
+          /*
+          Random link button- By JavaScript Kit (http://javascriptkit.com)
+          Over 300+ free scripts!
+          This credit MUST stay intact for use
+          */
+
+          //specify random links below. You can have as many as you want
+          var randomlinks=new Array()
+
+          randomlinks[0]="Screen%20Zoo%20Daily%20Daily%20Facts.html"
+          randomlinks[1]="Screen%20ZOO%20Daily%20Daily%20Facts%20Tyrannosaurus.html"
+
+          function randomlink(){
+            window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
+          }
+          //-->
+        </script>
+        <form method="post">
+          <p><input type="button" name="B1" value="New Fact >>" onclick="randomlink()"></p> </form>
+
+        <!--Uncomment below to use a regular text link instead
+        <a href="javascript:randomlink()">Random Link</a>
+        -->
 
       </h1>
     </div>

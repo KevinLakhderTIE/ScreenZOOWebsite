@@ -171,3 +171,23 @@ img {
 sub-nav {
 
 }
+
+.prehistoric {
+    background-color: darkgrey;
+}
+
+#introductionpageprehistoric {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+    background-color: darkgrey;
+}
+
+.lowerbar .prehistoric {
+    padding: 50px;
+    background-color: gold;
+
+}
+
+
+
+
