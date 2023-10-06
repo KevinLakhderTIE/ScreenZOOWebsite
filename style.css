@@ -174,20 +174,34 @@ sub-nav {
 
 .prehistoric {
     background-color: darkgrey;
+    color: saddlebrown;
 }
 
 #introductionpageprehistoric {
     font-family: 'Permanent Marker', cursive;
     font-size: 24px;
     background-color: darkgrey;
-}
-
-.lowerbar .prehistoric {
-    padding: 50px;
-    background-color: gold;
-
+    color: saddlebrown;
 }
 
 
+
+.rowview {
+    width: 100vw;
+}
+
+.aquatic {
+    background-color: deepskyblue;
+    color: coral;
+
+}
+
+#introductionpageaquatic {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 24px;
+    background-color: deepskyblue;
+    color: coral;
+
+}
 
 
